@@ -1,21 +1,24 @@
-<p align="center">
-  <img src="https://vaishnavivpatil.github.io/Portfolio/images/favicon.jpeg" alt="Vaishnavi Patil" width="100%" style="max-height:420px; object-fit:cover;" />
-</p>
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://vaishnavivpatil.github.io/Portfolio/images/favicon.jpeg" alt="Vaishnavi Patil" width="100%" />
+</td>
+<td width="65%" valign="middle">
 
-<h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
-<h3 align="center">Full-Stack Engineer · React · TypeScript · Node · AWS</h3>
+# Hi 👋, I'm Vaishnavi Patil
+### Full-Stack Engineer · React · TypeScript · Node · AWS
 
-<p align="center">
-I build calm, scalable, and thoughtfully engineered products with a focus on clean UX, real-time systems, and reliable backend architecture.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=E7D1FF&width=520&lines=Building+calm%2C+scalable+products+%E2%9C%A8;Clean+UX+%C2%B7+real-time+systems+%C2%B7+solid+architecture;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+AWS;Turning+messy+workflows+into+structured+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
-
-### ✨ A little about me
+### A little about me ✨ 
 - 🧩 I enjoy building full-stack systems that feel simple on the surface but are solid underneath
 - ⚡ I’ve worked across React, Next.js, Node.js, Java, AWS, and data-heavy backend systems
 - 🧠 I care a lot about UX stability, performance, and clean architecture
 - 🚀 I like turning messy workflows into structured, scalable products
+
+</td>
+</tr>
+</table>
 
 ---
 
